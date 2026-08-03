@@ -1,0 +1,230 @@
+{
+  "AI Engineer": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "TensorFlow",
+    "SQL",
+    "Docker",
+    "AWS"
+  ],
+
+  "Data Scientist": [
+    "Python",
+    "Statistics",
+    "Machine Learning",
+    "Pandas",
+    "SQL",
+    "Data Visualization"
+  ],
+
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git",
+    "Responsive Design"
+  ],
+
+  "Backend Developer": [
+    "Python",
+    "Flask",
+    "Django",
+    "REST API",
+    "SQL",
+    "Git",
+    "Docker"
+  ],
+
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Git"
+  ],
+
+  "Java Developer": [
+    "Java",
+    "OOP",
+    "Spring Boot",
+    "Hibernate",
+    "MySQL",
+    "REST API",
+    "Git"
+  ],
+
+  "Python Developer": [
+    "Python",
+    "Flask",
+    "Django",
+    "REST API",
+    "MySQL",
+    "Git",
+    "Docker"
+  ],
+
+  "Software Engineer": [
+    "Programming",
+    "Data Structures",
+    "Algorithms",
+    "OOP",
+    "Git",
+    "SQL",
+    "Problem Solving"
+  ],
+
+  "Android Developer": [
+    "Java",
+    "Kotlin",
+    "Android Studio",
+    "Firebase",
+    "REST API",
+    "SQLite",
+    "Git"
+  ],
+
+  "Cloud Engineer": [
+    "AWS",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "Networking",
+    "Terraform"
+  ],
+
+  "DevOps Engineer": [
+    "Linux",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Git",
+    "AWS",
+    "CI/CD"
+  ],
+
+  "Cyber Security Analyst": [
+    "Networking",
+    "Linux",
+    "Wireshark",
+    "Nmap",
+    "Python",
+    "SIEM",
+    "Incident Response"
+  ],
+
+  "Network Engineer": [
+    "Networking",
+    "CCNA",
+    "Routing",
+    "Switching",
+    "Firewall",
+    "Linux",
+    "TCP/IP"
+  ],
+
+  "Data Analyst": [
+    "Excel",
+    "SQL",
+    "Python",
+    "Power BI",
+    "Tableau",
+    "Statistics",
+    "Pandas"
+  ],
+
+  "Business Analyst": [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "Communication",
+    "Business Analysis",
+    "Documentation"
+  ],
+
+  "Machine Learning Engineer": [
+    "Python",
+    "Machine Learning",
+    "Scikit-learn",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Docker"
+  ],
+
+  "UI/UX Designer": [
+    "Figma",
+    "Adobe XD",
+    "Wireframing",
+    "Prototyping",
+    "User Research",
+    "Design Systems",
+    "Responsive Design"
+  ],
+
+  "QA Engineer": [
+    "Manual Testing",
+    "Selenium",
+    "Python",
+    "API Testing",
+    "JUnit",
+    "Bug Tracking",
+    "Git"
+  ],
+
+  "Database Administrator": [
+    "MySQL",
+    "PostgreSQL",
+    "Oracle",
+    "SQL",
+    "Backup",
+    "Performance Tuning",
+    "Linux"
+  ],
+
+  "Embedded Systems Engineer": [
+    "C",
+    "C++",
+    "Microcontrollers",
+    "Embedded C",
+    "Arduino",
+    "Raspberry Pi",
+    "IoT"
+  ],
+
+  "IoT Engineer": [
+    "Python",
+    "C++",
+    "Arduino",
+    "ESP32",
+    "MQTT",
+    "Sensors",
+    "Cloud IoT"
+  ],
+
+  "Blockchain Developer": [
+    "Solidity",
+    "Ethereum",
+    "Web3",
+    "Smart Contracts",
+    "JavaScript",
+    "Node.js",
+    "Git"
+  ],
+
+  "Game Developer": [
+    "C#",
+    "Unity",
+    "C++",
+    "Game Physics",
+    "Animation",
+    "Git",
+    "Blender"
+  ]
+}
